@@ -1,14 +1,15 @@
 # 🌐 Zion App Network — Interlinks
 
-**ai-data-validator** — automated data quality validation and cleansing. Part of the Zion Tech Group app network (630+ apps).
+**ai-data-validator** is part of the Zion Tech Group app network (630+ apps).
 
 - 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
 - 🗂️ Category: [Data & Analytics](https://github.com/Zion-support/zion-network/blob/main/network/data-analytics.md)
 
 ## Related apps
-- [data-quality-sentinel](https://github.com/Zion-support/data-quality-sentinel) — continuous data quality
-- [data-contract-validator](https://github.com/Zion-support/data-contract-validator) — contract validation
-- [ai-data-pipeline](https://github.com/Zion-support/ai-data-pipeline) — automated data pipelines
+- [data-quality-sentinel](https://github.com/Zion-support/data-quality-sentinel) — Continuous data quality monitoring
+- [zion-ai-data-quality](https://github.com/Zion-support/zion-ai-data-quality) — Pipeline monitoring and anomaly detection
+- [data-contract-validator](https://github.com/Zion-support/data-contract-validator) — Data contract validation
+- [ai-data-labeling](https://github.com/Zion-support/ai-data-labeling) — Automated labeling with active learning
 - [zion-network](https://github.com/Zion-support/zion-network) — network hub
 
 ---
