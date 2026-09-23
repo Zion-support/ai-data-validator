@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Data Validator
 
-**ai-data-validator** is part of the Zion Tech Group app network (630+ apps).
+Automated data quality validation and cleansing.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Data & Analytics](https://github.com/Zion-support/zion-network/blob/main/network/data-analytics.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [data-quality-sentinel](https://github.com/Zion-support/data-quality-sentinel) · [data-contract-validator](https://github.com/Zion-support/data-contract-validator) · [zion-ai-data-anonymizer](https://github.com/Zion-support/zion-ai-data-anonymizer) · [synthetic-data-lab](https://github.com/Zion-support/synthetic-data-lab) · [ai-document-classifier](https://github.com/Zion-support/ai-document-classifier)
 
-## Related apps
-- [data-quality-sentinel](https://github.com/Zion-support/data-quality-sentinel) — Continuous data quality monitoring
-- [zion-ai-data-quality](https://github.com/Zion-support/zion-ai-data-quality) — Pipeline monitoring and anomaly detection
-- [data-contract-validator](https://github.com/Zion-support/data-contract-validator) — Data contract validation
-- [ai-data-labeling](https://github.com/Zion-support/ai-data-labeling) — Automated labeling with active learning
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
